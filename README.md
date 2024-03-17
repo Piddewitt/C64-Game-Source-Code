@@ -17,33 +17,32 @@ Utilities used:
   Emulator: WinVice
   NIB converter: NibTools
 
-Directory structure
-  /
-    dox - additional documentation
-    npp - Notepadd++ modification instructions/language files/toolbar icons
-    C64
-      tools
-        64tass
-        DisAsm
-      asm
-        Projects
-          < npp_project >.xml
-          Data
-            inc - C64 system includes
-            
-            originals - Game sources
-              < c64_game >
-                asm - source code
-                d64 - C64 disk files
-                dis - disassemblies
-                inc - game includes
-                lst - assembler listings
-                prg - binaries
-                xtra - additional files
+Directory structure:
+  dox - additional documentation
+  npp - Notepadd++ modification instructions/language files/toolbar icons
+  C64
+    tools
+      64tass
+      DisAsm
+    asm
+      Projects
+        < npp_project >.xml
+        Data
+          inc - C64 system includes
+          
+          originals - Game sources
+            < c64_game >
+              asm - source code
+              d64 - C64 disk files
+              dis - disassemblies
+              inc - game includes
+              lst - assembler listings
+              prg - binaries
+              xtra - additional files
                 
-                all.bat - call both, 64tass and 65xxdis
-                asm.bat - call 64tass
-                dis.bat - call 65xxdis
-            mods - Modified games
-              < modified_game >
-                same structure as above
+              all.bat - call both, 64tass and 65xxdis
+              asm.bat - call 64tass
+              dis.bat - call 65xxdis
+          mods - Modified games
+            < modified_game >
+              same structure as above
