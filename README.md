@@ -1,11 +1,11 @@
 # Commodore C64 Games - Source Code and Rebuild
 
 ## Purpose
-- Start with an old Commodore C64 game disk which is as close to the original as possible (**g64** or **nib**)
-- including the copy protection.
+- Start with an old Commodore C64 game disk which is as close to the original as possible (**g64** or **nib**).
+- Include the copy protection.
 - Produce a commented assembler listing which reassembles to an exact copy of the originaL binary.
-- Make the source as variable as possible to allow any kind of modifications (Data area and code relocation).
-- Sometimes add some own ideas to the game soures code for fun and as a proof of relocation.
+- Make the source as variable as possible to allow any kind of modifications (data area and code relocation).
+- Sometimes add some own ideas to the game soures code for fun and as a proof of concept.
 - Sometimes add a (simple) level editor.
 
 ## Project
