@@ -1,4 +1,4 @@
-# Commodore C64 Games - Source Code and Rebuild
+# Commodore C64 Game Source Code
 
 ## Purpose
 - Start with an old Commodore C64 game disk which is as close to the original as possible (**g64** or **nib**).
