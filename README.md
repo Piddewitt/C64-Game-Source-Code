@@ -11,9 +11,9 @@
 ## Published so far
 - **originals**
   - Loderunner
-  - Championship Loderunner
+  - Championship Loderunner   https://github.com/Piddewitt/Championship_Loderunner
 - **mods**
-  - Hansmanns Loderunner https://github.com/Piddewitt/Hansmanns_Loderunner
+  - Hansmanns Loderunner      https://github.com/Piddewitt/Hansmanns_Loderunner
 
 ## Tools used
 - Assembler: **64tass**
