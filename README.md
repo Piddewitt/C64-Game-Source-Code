@@ -13,7 +13,7 @@
   - Loderunner
   - Championship Loderunner
 - **mods**
-  - Hansmanns Loderunner
+  - Hansmanns Loderunner https://github.com/Piddewitt/Hansmanns_Loderunner
 
 ## Tools used
 - Assembler: **64tass**
