@@ -4,12 +4,16 @@
 - Start with an old Commodore C64 game disk which is as close to the original as possible (**g64** or **nib**).
 - Include the copy protection.
 - Produce a commented assembler listing which reassembles to an exact copy of the originaL binary.
-- Make the source as variable as possible to allow any kind of modifications (data area and code relocation).
+- Make the source as variable as possible to allow any kind of modifications, data area and code relocation.
 - Sometimes add some own ideas to the game soures code for fun and as a proof of concept.
 - Sometimes add a (simple) level editor.
 
-## Project
-- All content comes as a Notepad++ project
+## Published so far
+- **originals**
+  - Loderunner
+  - Championship Loderunner
+- **mods**
+  - Hansmanns Loderunner
 
 ## Tools used
 - Assembler: **64tass**
@@ -18,6 +22,9 @@
 - Emulator: **WinVice**
 - Converter: **NibTools**
   
+## Project
+- All content comes as a Notepad++ project
+
 ## Directory structure
 - **dox** - _Additional documentation_
 - **npp** - _Notepad++ modification instructions / language files / toolbar icons_
