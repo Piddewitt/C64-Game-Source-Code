@@ -10,10 +10,12 @@
 
 ## Published so far
 - **originals**
-  - Loderunner              https://github.com/Piddewitt/Loderunner
-  - Championship Loderunner https://github.com/Piddewitt/Championship_Loderunner
+  - Loderunner                     https://github.com/Piddewitt/Loderunner
+  - Championship Loderunner        https://github.com/Piddewitt/Championship_Loderunner
+  - The Castles of Dr Creep        https://github.com/Piddewitt/The-Castles-of-Dr-Creep
 - **mods**
-  - Hansmanns Loderunner    https://github.com/Piddewitt/Hansmanns_Loderunner
+  - Hansmanns Loderunner           https://github.com/Piddewitt/Hansmanns_Loderunner
+  - Hansmanns Castles of Dr Creep  https://github.com/Piddewitt/Hansmanns-Castles-of-Dr-Creep
 
 ## Tools used
 - Assembler: **64tass**
